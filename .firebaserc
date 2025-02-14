@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "privacy": "ctp-central-database",
+    "default": "ctp-central-database"
+  },
+  "targets": {
+    "ctp-central-database": {
+      "hosting": {
+        "ctp-privacy-policy": [
+          "ctp-privacy-policy"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
